@@ -1,10 +1,6 @@
 # Cloth Simulation using OpenGL
 
-<p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=q-10Qvi9kyU" 
-          title="YouTube video" frameborder="0" allowfullscreen>
-  </iframe>
-</p>
+https://github.com/user-attachments/assets/dd029f13-4fc6-4ef5-9295-88cc2a98637c
 
 ##  Prerequisites
 

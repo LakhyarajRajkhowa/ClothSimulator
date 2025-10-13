@@ -86,7 +86,7 @@ int Render::create(std::string windowName, int screenWidth, int screenHeight, un
     ImGui_ImplOpenGL3_Init("#version 330");
 
     // Shader setup
-    shaderProgram = compileShader("C:/Users/llakh/OneDrive/Desktop/firework particle simulator/LifeSimulator/cloth_simulator/shaders/particle.vert", "C:/Users/llakh/OneDrive/Desktop/firework particle simulator/LifeSimulator/cloth_simulator/shaders/particle.frag");
+    shaderProgram = compileShader("../shaders/particle.vert", "../shaders/particle.frag");
 
     // Particle VAO/VBO
     glGenVertexArrays(1, &particleVAO);
